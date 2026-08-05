@@ -29,6 +29,8 @@ The design follows modern UI principles with a minimal layout, intuitive navigat
 - Ratings and pricing
 - Shopping cart preview
 
+![Home Page](assets/home.png)
+
 ### 🔍 Search Page
 - Search seafood dishes
 - Filter by
@@ -36,6 +38,8 @@ The design follows modern UI principles with a minimal layout, intuitive navigat
   - Rating
   - Distance
 - View search results instantly
+
+![Search Results](assets/search-results.png)
 
 ### 🍽 Food Details Page
 - Large food preview
@@ -47,6 +51,8 @@ The design follows modern UI principles with a minimal layout, intuitive navigat
 - Dynamic price
 - Add to Cart
 
+![Food Details](assets/food-details.png)
+
 ### 🛒 Checkout Page
 - Delivery Address
 - Payment Method
@@ -55,14 +61,18 @@ The design follows modern UI principles with a minimal layout, intuitive navigat
 - Tax & Delivery Fee Calculation
 - Place Order button
 
+![Checkout](assets/checkout.png)
+
 ---
 
 # 🖥 Screens Included
 
-- Home Screen
-- Search Results
-- Food Details
-- Checkout
+| Screen | Preview |
+|---|---|
+| Home Screen | ![Home](assets/home.png) |
+| Search Results | ![Search Results](assets/search-results.png) |
+| Food Details | ![Food Details](assets/food-details.png) |
+| Checkout | ![Checkout](assets/checkout.png) |
 
 ---
 
@@ -140,16 +150,20 @@ During the internship, I designed complete user interfaces and prototypes focusi
 ---
 
 ## 📂 Project Structure
+```
 Coastal-Cravings/
 │
 ├── Home Screen
 ├── Search Results
 ├── Food Details
 ├── Checkout
-├── Assets
+├── assets/
+│   ├── home.png
+│   ├── search-results.png
+│   ├── food-details.png
+│   └── checkout.png
 └── README.md
-
-
+```
 
 ---
 
@@ -197,4 +211,3 @@ GitHub: *(Add your GitHub URL)*
 ## ⭐ Acknowledgement
 
 This project was successfully completed as part of the **UI/UX Design Internship at CodTech IT Solutions**
-
